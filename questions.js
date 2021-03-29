@@ -1,4 +1,4 @@
-let question = [
+let questions = [
     {
         numb: 1,
         question: "Which type of JavaScript language is ___",
